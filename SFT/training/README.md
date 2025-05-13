@@ -1,0 +1,3 @@
+
+## Overview
+Additional functions not provided by llama for improved layer targeting. High emphasis on vision embedding layers, vision model backbone, and cross attention layers. The targeting is extremely import for both LoRA and FSDP wrapping. Functions have been split into distillation and supervised finetuning. I surmise throughout the training processing the main LLM will remain frozen with the exception of projection layers. 

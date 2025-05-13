@@ -1,0 +1,15 @@
+{"time":"2025-01-16T19:55:30.115908264Z","level":"INFO","msg":"stream: starting","core version":"0.19.3","symlink path":"/home/ubuntu/llama-cookbook-main_20250116/getting-started/finetuning/datasets/wandb/run-20250116_195529-en68ozes/logs/debug-core.log"}
+{"time":"2025-01-16T19:55:32.534189264Z","level":"INFO","msg":"created new stream","id":"en68ozes"}
+{"time":"2025-01-16T19:55:32.534251434Z","level":"INFO","msg":"stream: started","id":"en68ozes"}
+{"time":"2025-01-16T19:55:32.534336645Z","level":"INFO","msg":"writer: Do: started","stream_id":"en68ozes"}
+{"time":"2025-01-16T19:55:32.534362341Z","level":"INFO","msg":"sender: started","stream_id":"en68ozes"}
+{"time":"2025-01-16T19:55:32.534466773Z","level":"INFO","msg":"handler: started","stream_id":"en68ozes"}
+{"time":"2025-01-16T19:55:32.674079908Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-16T19:56:01.38364542Z","level":"INFO","msg":"stream: closing","id":"en68ozes"}
+{"time":"2025-01-16T19:56:01.383678821Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-16T19:56:01.388432545Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-16T19:56:01.748214646Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-16T19:56:01.837039671Z","level":"INFO","msg":"handler: closed","stream_id":"en68ozes"}
+{"time":"2025-01-16T19:56:01.837121969Z","level":"INFO","msg":"writer: Close: closed","stream_id":"en68ozes"}
+{"time":"2025-01-16T19:56:01.837169014Z","level":"INFO","msg":"sender: closed","stream_id":"en68ozes"}
+{"time":"2025-01-16T19:56:01.837287562Z","level":"INFO","msg":"stream: closed","id":"en68ozes"}

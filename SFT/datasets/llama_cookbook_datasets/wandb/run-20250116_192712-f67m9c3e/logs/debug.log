@@ -1,0 +1,26 @@
+2025-01-16 19:27:12,170 INFO    MainThread:71821 [wandb_setup.py:_flush():68] Current SDK version is 0.19.3
+2025-01-16 19:27:12,170 INFO    MainThread:71821 [wandb_setup.py:_flush():68] Configure stats pid to 71821
+2025-01-16 19:27:12,170 INFO    MainThread:71821 [wandb_setup.py:_flush():68] Loading settings from /home/ubuntu/.config/wandb/settings
+2025-01-16 19:27:12,170 INFO    MainThread:71821 [wandb_setup.py:_flush():68] Loading settings from /home/ubuntu/llama-cookbook-main_20250116/getting-started/finetuning/datasets/wandb/settings
+2025-01-16 19:27:12,170 INFO    MainThread:71821 [wandb_setup.py:_flush():68] Loading settings from environment variables
+2025-01-16 19:27:12,170 INFO    MainThread:71821 [wandb_init.py:_log_setup():598] Logging user logs to /home/ubuntu/llama-cookbook-main_20250116/getting-started/finetuning/datasets/wandb/run-20250116_192712-f67m9c3e/logs/debug.log
+2025-01-16 19:27:12,170 INFO    MainThread:71821 [wandb_init.py:_log_setup():599] Logging internal logs to /home/ubuntu/llama-cookbook-main_20250116/getting-started/finetuning/datasets/wandb/run-20250116_192712-f67m9c3e/logs/debug-internal.log
+2025-01-16 19:27:12,171 INFO    MainThread:71821 [wandb_init.py:init():714] calling init triggers
+2025-01-16 19:27:12,171 INFO    MainThread:71821 [wandb_init.py:init():719] wandb.init called with sweep_config: {}
+config: {}
+2025-01-16 19:27:12,171 INFO    MainThread:71821 [wandb_init.py:init():745] starting backend
+2025-01-16 19:27:12,378 INFO    MainThread:71821 [wandb_init.py:init():749] sending inform_init request
+2025-01-16 19:27:12,381 INFO    MainThread:71821 [backend.py:_multiprocessing_setup():104] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2025-01-16 19:27:12,382 INFO    MainThread:71821 [wandb_init.py:init():764] backend started and connected
+2025-01-16 19:27:12,384 INFO    MainThread:71821 [wandb_init.py:init():857] updated telemetry
+2025-01-16 19:27:12,384 INFO    MainThread:71821 [wandb_init.py:init():889] communicating run to backend with 90.0 second timeout
+2025-01-16 19:27:14,441 INFO    MainThread:71821 [wandb_init.py:init():941] starting run threads in backend
+2025-01-16 19:27:14,743 INFO    MainThread:71821 [wandb_run.py:_console_start():2420] atexit reg
+2025-01-16 19:27:14,744 INFO    MainThread:71821 [wandb_run.py:_redirect():2270] redirect: wrap_raw
+2025-01-16 19:27:14,744 INFO    MainThread:71821 [wandb_run.py:_redirect():2335] Wrapping output streams.
+2025-01-16 19:27:14,744 INFO    MainThread:71821 [wandb_run.py:_redirect():2360] Redirects installed.
+2025-01-16 19:27:14,747 INFO    MainThread:71821 [wandb_init.py:init():983] run started, returning control to user process
+2025-01-16 19:27:14,748 INFO    MainThread:71821 [wandb_run.py:_config_callback():1282] config_cb None None {'model_name': 'meta-llama/Llama-3.2-11B-Vision-Instruct', 'tokenizer_name': None, 'enable_fsdp': True, 'low_cpu_fsdp': False, 'run_validation': True, 'batch_size_training': 1, 'batching_strategy': 'padding', 'context_length': 4096, 'gradient_accumulation_steps': 1, 'gradient_clipping': False, 'gradient_clipping_threshold': 1.0, 'num_epochs': 3, 'max_train_step': 0, 'max_eval_step': 0, 'num_workers_dataloader': 1, 'lr': 1e-05, 'weight_decay': 0.0, 'gamma': 0.85, 'seed': 42, 'use_fp16': False, 'mixed_precision': True, 'val_batch_size': 1, 'peft_method': 'lora', 'use_peft': True, 'from_peft_checkpoint': '', 'output_dir': 'PATH/to/save/PEFT/model', 'freeze_layers': False, 'num_freeze_layers': 1, 'freeze_LLM_only': False, 'quantization': None, 'one_gpu': False, 'save_model': True, 'dist_checkpoint_root_folder': '/home/ubuntu/save_model/', 'dist_checkpoint_folder': 'checkpoints', 'save_optimizer': False, 'use_fast_kernels': True, 'use_wandb': True, 'save_metrics': True, 'flop_counter': False, 'flop_counter_start': 3, 'use_profiler': False, 'profiler_dir': 'PATH/to/save/profiler/results', 'dataset': 'custom_dataset'}
+2025-01-16 19:27:14,749 INFO    MainThread:71821 [wandb_run.py:_config_callback():1282] config_cb None None {'mixed_precision': True, 'use_fp16': False, 'sharding_strategy': 'FULL_SHARD', 'hsdp': False, 'sharding_group_size': 0, 'replica_group_size': 0, 'checkpoint_type': 'SHARDED_STATE_DICT', 'fsdp_activation_checkpointing': True, 'fsdp_cpu_offload': False, 'pure_bf16': False, 'optimizer': 'AdamW'}
+2025-01-16 19:27:19,736 INFO    MainThread:71821 [wandb_run.py:_config_callback():1282] config_cb None None {'task_type': 'CAUSAL_LM', 'peft_type': 'LORA', 'auto_mapping': None, 'base_model_name_or_path': 'meta-llama/Llama-3.2-11B-Vision-Instruct', 'revision': None, 'inference_mode': False, 'r': 8, 'target_modules': ['q_proj', 'v_proj'], 'exclude_modules': None, 'lora_alpha': 32, 'lora_dropout': 0.05, 'fan_in_fan_out': False, 'bias': 'none', 'use_rslora': False, 'modules_to_save': None, 'init_lora_weights': True, 'layers_to_transform': None, 'layers_pattern': None, 'rank_pattern': {}, 'alpha_pattern': {}, 'megatron_config': None, 'megatron_core': 'megatron.core', 'loftq_config': {}, 'eva_config': None, 'use_dora': False, 'layer_replication': None, 'runtime_config': {'ephemeral_gpu_offload': False}, 'lora_bias': False, '_custom_modules': None}
+2025-01-16 19:34:08,948 WARNING MsgRouterThr:71821 [router.py:message_loop():75] message_loop has been closed

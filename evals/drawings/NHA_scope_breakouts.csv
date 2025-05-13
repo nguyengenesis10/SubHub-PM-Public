@@ -1,0 +1,556 @@
+Trade,Scope ,Pg # 1 ,Pg # 2,Pg # 3,Pg # 4,Pg # 5,Pg # 6,Pg # 7,"Indicator (Key Notes, unless specified)",Addtl Notes ,Question?
+Excavating ,Remove existing vegetation ,CS 4,,,,,,,,,
+Excavating ,Demo 4 existing asphalt patches ,CS 4,,,,,,,,,
+Excavating ,Existing concrete curb and gutter to be removed in 4 locations ,CS 4,,,,,,,,,
+Excavating ,Remove existing sanitary manhole ,CS 4,,,,,,,,,
+Erosion Control ,Storm Inlet to be protected in place ,CS 4,,,,,,,,,
+Concrete ,Flow fill existing sanitary line and abandon in place ,CS 4,,,,,,,,,
+Excavating ,Existing concrete sidewalk and steps to be removed ,CS 4,,,,,,,,,
+,,,,,,,,,,,
+Concrete,Provide an install city sidewalk to be 5'5'' wide ,CS 5,CS 17,,,,,,,"pg17 in civil contains 6'' concrete, general notes in arch plans contain 4'' and 
+structurals in arch plans contain 4.5'' thick concrete, also contains info about joint distances
+pg16 also introduces a conflict as CDOT specifies 4'' thick concrete w/ those vertical ramps 
+general schema of supremacy is as follows: general notes < structural < city specifications ",
+Concrete,Provide and install city sidewalk tie-ins,CS 5 ,,,,,,,,important note abt rebar at the top right ,
+Concrete,Provide and install expansion joint between curb and city sidewalk ,CS 5 ,X-1,G-402 ,,,,,"GN3, GN7.92","GN(General Note)
+
+X-1 - GN3 
+GN7.92 - note on joint sealants expected composition ",
+Conrete ,Provide and install concrete and flatowork at building perimeter ,CS 5,CS 17 ,X-1,A-101,,,,"GN4, 9","X-1 - referenced again
+A-101 - referenced again ",
+,Provide and install concrete at playground,,,X-1 ,,,,,"3, GN3","Concrete around playground not noted around civil plans
+Note the difference in joint spacing for playground concrete, city concrete, building perimeter concrete",
+Concrete ,Provide and install concrete/flatwork for trash enclosure ,CS 5,CS 17 ,,,,,,,,
+Conrete ,Provide and install trash enclosure ,CS 5,X-1,A-202,S4.2,,,,"12, E1","CS 5 - intial catch
+X-1 - Architecutral catch
+A-202 - trash enclosure design specifications, see D1 for overplan 
+S4.2 - wall section on S4.2 ",
+,Provide and install footing and X cubic yards of concrete for concrete wall for trash enclosure. ,,,A-202,,,,,E6,S4.2 - elevation 6 ,
+,Provide and install X lineal feet of 8'' CMU wall at 6' high w/ #5 rebar 4' O.C. max in solid grouted core,,,A-202,,,,,E6,,
+,Provide and install X lineal feet of 2 by 4 horizontal wood studs,,,A-202,,,,,E6,,
+,Provide and install X lineal feet of 2 by 6 horizontal wood studs,,,A-202,,,,,E6,,
+,Provide and install 5/8'' plywood sheathing,,,A-202,,,,,E6,,
+,Provide and install weather resistant barrier,,,A-202,,,,,E6,,
+,Provide and install fiber cement lap siding ,,,A-202,,,,,E6 ,,
+,Provide and install X lineal feet of prefinished metal flashing at lap siding,,,A-202,,,,,E6,,
+,Provide and install X lineal feet metal coping cap,,,A-202,,,,,E6,,
+,Provide and install X cubic feet of continous bead sealant,,,A-202,,,,,E6,,
+,Provide and install X lineal feet of 1/2'' plywood sheathing ,,,A-202,,,,,E6 ,,
+,Provide and install X lineal feet of rebar at trash enclosure as specified,,,A-202,,,,,E6,,
+,Provide and install #5 dowel to foundation wall ,,,A-202,,,,,E6,,
+,Provide and install X square feet of expansion joint material,,,A-202,,,,,E6,,
+,Provide and install trash enclosure gate ,,,A-202,G402,,,,"E2A, GN7.92","A-202 - elevation 2a -  Gate to be made of 1x6 cedar board fence 
+GN7.92 - note on joint sealants expected composition ",
+,Provide and apply Navajo Beige paint to trash enclosure gate,,,A-202,,,,,E2A,,
+,Provide and install 4'' prefinished heathered moss james hardie trim,,,A-202,,,,,"E2A, E2B",,
+,Provide and install 6'' prefinished navajo beige james haride lap siding ,,,A-202,,,,,"E2A, E2B",,
+,Provide and install X lineal feet of precast stone sill ,,,A-202,,,,,E2A,,
+,Provide and install X lineal feet of stone veneer,,,A-202,,,,,E2A,,
+,Provide and install galvanized tube steel for trash enclosure gate jamb,,,A-202,,,,,E3,,
+,Provide and install swing latch ,,,A-202,,,,,E4,A-202 - elevation 4,
+,Provide and install stop plate,,,A-202,,,,,E4,A-202 - elevation 4,
+,Provide and install cane bolt ,,,A-202,,,,,E4,A-202 - elevation 4,
+,Provide and install two 6'' diameter bollards at trash enclosure ,,,A-202,,,,,E5,"A-202 - should be 6'' diameter w/ 7' long std. steel, pipe filled w/ concrete",
+,Provide and install 3/4'' diameter galvinized machine bolt 10'' long ,,,A-202,,,,,E5,,
+,Provide and install round concrete crown to bollards ,,,A-202,,,,,E5,,
+,"Provide and apply paint to two bollards, as per finish schedule",,,A-202,,,,,E5,,
+Concrete,Provide and install building concrete patio ,CS 5,,,,,,,,,
+Concrete ,Provide and install curb and gutter at parking lot ,CS 5,CS 7,CS 9 ,CS 17 ,A-101,,,18,A-101 - referenced ,
+Concrete ,Provide and install curb and gutter at 4 asphalt patches (after site utilites),CS 5,CS 7,CS 9 ,CS 17 ,,,,,"Note the (after site utilities wouldn't be caught by the LLM) until at least pg7 w/ good intuition 
+but def should catch by page 9 
+pg17 has all specifics for curb and gutter install  ",
+Concrete,"Provide and install CDOT perpandicular, vertical, pedestrian, directional, directional parallel curb ramps ",CS 5,CS 16,CS 17,A-101,,,,8,"pg16/17 for specifics, note the subclass for each ramp and the faint X's on designs that
+should not be used; could add CS 7 for means and methods for conrete sub 
+A-101 - specifcs for a handicap ramp where the CDOT perp. ramp is located 
+scope development from row 20 to be broken out b/c of A-101",Break out the ramps into different scope?
+,Provide and install one CDOT perpandicular ramps ,CS 5,CS 16,A-101,,,,,8,"note installation of 9' x 2' ADA surface also it's flipped in the wrong order and there's descrepency w/ 
+drawings saying it should be 9' x 2.5' ",
+,Provide and install one CDOT type 2 directional ramp ,CS 5,CS 17 ,,,,,,,,
+,Provide and install one CDOT perpendicular curp ramp w/ vertical return curb ,CS 5 ,CS 16 ,,,,,,,,
+,Provide and install one CDOT directional parallel curb ramp ,CS 5 ,CS 16,,,,,,,,
+,Provide and install one pedestrian ramp ,CS 5,,,,,,,,,
+,Provide and install one CDOT parallel curb ramp ,CS 5 ,CS 16,,,,,,,,
+Concrete,Provide and install concrete stairs at pedstrian ramp ,CS 5,CS 7 ,CS 18,,,,,,"pg17 is false positive, actually on 18; CS 7 contains more specifics on stairs ",
+Concrete,Provide and install truncated domes to all vertical ramps ,CS 5,CS 2,CS 16,CS 17,,,,,"Note on general notes pg2 all ramps must have truncated domes look after first pass
+pg , also no specifics for DWS(detectable warning surface) on 16, but the legend has it specified ",
+Outdoor Furniture,Provide and install benches and tables,CS 5,X-1,,,,,,"31,32","CS 5 - intial catch , no specifics 
+CS 32 - specific bench w/ back 6' and 46'' ground mounted square picnic table, see landscape drawings",
+Asphalt ,Provide and install asphalt parking lot ,CS 5,CS 7,CS 17 ,,,,,,"intial catch on pg5 w/ arrow point towards asphalt pavement
+but def pg7 w/ all the grading information 
+note the CS 17 requirements for asphalt potentially dirtwork guy does rescarification 
+but dependent on quality of subs ",
+Fencing ,Provide and install 6' decorative metal fence,CS 5,CS 9,CS 18 ,X-1,X-2,A-101,,"4,10","CS 5 - intial catch 
+CS 9 - redundant catch
+CS 18 - civil specifications for fence 
+X-1 - specifics for 6' H fence 
+The additional note requires all fence gates and swinging doors to be smooth i.e. no protruding objects
+X-2 - architecutral specifications for fence 
+A-101 - referenced fence ",
+Door Installer,Provide and install all fence metal gates ,CS 5,CS 9,CS 18 ,X-1,X-2,,,"5,7,Swinging Eoor & Gate Surface Note","Note on CS5, CS9, CS18 only specify the 6' metal gates not the 4', they're present on X-1, 
+X-2 contains specifics for the 6' metal fence gate
+X-2 RFI on the fence post gates as you wouldn't put a rubber boot if you were wrapping around concrete ",
+Door Installer,Provide and install panic devices to all fence gates ,CS 9,CS 18 ,X-1,X-2,,,,8,"two 4x6' gates
+four 4x4' gates
+all have panice devices",
+,Provide and install alarm gri-gt 10-4 to all fence gates,,,X-1,,,,,28,"since this is grouped, w/ the 4' and 6' fence gates I'm going to leave it here for now",correct trade?
+Fencing ,"Provide and install cedar fence, should match existing",CS 5,CS 17 ,,,,,,, ,
+Site Utilities ,Provide and install outlet structure to be retrofitted w/ orifice plate and trash screen ,CS 5 ,CS 9,CS 19,,,,,,see elevation sheet 19 for specifics ,
+Concrete,Provide and install sidewalk chase drain ,CS 5 ,CS 9 ,CS 17 ,,,,,,,
+Concrete ,Provide and install 5' CDOT inlet type R ,CS 5 ,CS 9 ,,,,,,,,
+,,,,,,,,,,,
+Striping ,Provide and install parking lot striping ,CS 6,X-1,,,,,,15,"CS 6 - Signage layout 
+X-1 - Reference again ",
+Striping ,Provide and install symbol of acessibilities,CS 6,X-1,,,,,,16,"CS 6 - Signage layout 
+X-1 - Reference again ",
+Sight Signage ,Provide and install accessible parking R7-8 and R7-8B,CS 6,,,,,,,,,
+Sight Signage ,Provide and install (R1-1) Stop Sign ,CS 6,,,,,,,,,
+Site Utilities,Provide and install storm manhole and catch basin ,CS 6 ,CS 9 ,,,,,,,"Note: not actually specified intuitelivy should pick up on CS 9 b/c it's connected to the 
+storm drain",
+,,,,,,,,,,,
+Excavating,Excavate and prep subgrade and export dirt for asphalt ,CS 7,,,,,,,,,
+Excavating,Scarify and compact to a depth of 36'' at asphalt parking lot ,CS 7 ,CS 17,,,,,,,"trade is subjective here could be asphalt, excavating ",
+Asphalt,Provide and install ABC (aggregate base course) to a depth of 8.5'' at asphalt parking lot ,CS 7 ,CS 17,,,,,,,"trade is subjective here could be asphalt, excavating ",
+Excavating,Trenching for domestic water,CS 7,CS 15 ,,,,,,,,
+Excavating,Trenching for sewer lines,CS 7,CS 12 ,CS 15 ,,,,,,"CS 12 - specifics for depth, lineal footage, material specifics ",
+Excavating,"Trenching for stormwater underdrain, within building  ",CS 7,CS 8,CS 11 ,CS 16 ,,,,,"CS 7 - knows it's a pipe
+CS 8 - know's it's a storm drain byt the legend 
+CS 11 - determins lineal footage + HDPE , for backfilling specifics, 
+             notice the elevation changes and direction on each inlet to determine trenching amounts 
+             the parenthisized directions (N,S,W,E) are the pipe coming from that direction the direction
+             of expected water flow must always be the lowest 
+CS 16 contains specifics for HDPE/PVC ",
+Concrete ,Provide and intall concrete V gutter w/ level spreader ,CS 7,,CS 19 ,,,,,,see elevation sheet 19 for specs ,
+Excavating ,Trenching for pipe tying into 5' CDOT inlet type R ,CS 7 ,CS 9 ,CS10 ,,,,,,"CS 7 catch b/c of dark contour lines suggestinig changes in elevation 
+hard catch on CS 9 as legend identifies it as a storm sewer
+ CS 10 for takeoff purposes and excavting depth",
+,,,,,,,,,,,
+Concrete ,Provide and install concrete retaining wall around building lot ,CS 8,CS 18 ,X-1,,,,,39,"CS 8 - first introduced here 
+CS 18 - specs for retaining wall 
+X-1 - referenced again here in the keynotes ",
+General Exclusion ,Contractor shall provide a retaining wall design that meet approval of City of Thorton. ,CS 8 ,X-1 ,,,,,,,"Potential RFI here as there are no specifics for the retaining wall other than in X-1 
+where you can extrapolate height based on top and bottom of wall elevations
+Lineal footage takeoff on total retaining wall lenght based on given coords 
+also wall section cutoff on CS 8 w/ heights and important info, etc. ",
+Site Utilities General Note,Demo and/or remove existing siting utilities as shown on plans ,CS 8 ,,,,,,,,,
+,,,,,,,,,,,
+Site Utilities ,"Provide and install 3 water service lines for domestic water, fire sprinklers, and fire hydrant ",CS 9,CS 13,CS 14,X-1,,,,"17,18,19","city handles final tie-ins for water lines , specifics on type K copper LF
+RFI for the water tap size for domestic water line, as not specified 
+
+CS 9 - Introduced water lines
+CS 13- Domestic, fire lines, fire sprinkler referemced again 
+CS 14 - Specifics on fire hydrant line 
+
+X-1 KN (keynote) 17 - 1-1.5'' domestic water line 
+X-1 KN 18 - 6'' fire line ",are final tie-in's included in this scope? 
+Site Utilities ,"Provide and install all required tee w/ gate valve(s), gate valve(s) for water service lines",CS 9,CS 13,CS 14,,,,,,"redundantly places on pg13, nice-to-have, but makes it difficult on the LLM
+notice 16'' - 42'' valve and vault elevation not relevant, false positive ",
+Site Utilities ,Provide and install fire hydrant ,CS 9,CS 13,CS 14,,,,,,"see elevation sheet 14 for specifics
+noticed in pg9, specifics on elecation pg13/14",
+Excavating,"Backfill domestic water trench, once inspected",CS 9,CS 15 ,,,,,,,CS 15/16 contains specifics on backfilling,
+Excavating,"Backfill fire sprinklers' trench, once inspected",CS 9,CS 15 ,,,,,,,CS 15/16 contains specifics on backfilling,
+Excavating,"Backill fire hyrdrant trench, once inspected",CS 9,CS 16 ,,,,,,,CS 15/16 contains specifics on backfilling,
+Erosion Control,Protect sanitary manholes ,CS 9,,,,,,,,intial catch on CS 9 ,
+Site Utilities ,"Provide and install two 6`` sanitary service connections, one for future use ",CS 9,CS 12 ,,,,,,,see top right ,
+SIte Utilities ,Provide and install 6'' sanitary service line to tie into building ,CS 9,CS 12 ,CS 16,X-1,,,,20,,
+SIte Utilities ,Provide and install 6'' sanitary service line for future use ,CS 9,CS 12 ,CS 16,,,,,,"CS 9 - introduction
+CS 12 - close-up
+CS 16 - specificatins on sewer line",
+General Notes,City and water district tap fees for sewer and water ,CS 9 ,CS 12 ,CS 13,,,,,,"sanitary zoom-in on CS 12 and domestic water zoom-in on CS-13, 
+note: this is only a groundup project 'thing'",
+Traffic Control ,Provide traffic control for all streetwork,CS 9,,,,,,,,,
+Site Utilities ,Sanitary manhole cover and top section of barrel to be removed and then flowfilled w/ concrete ,CS 9,,,,,,,,,
+Landscaping ,Sod area around removed sanitary manhole,CS 9,,,,,,,,,
+Site Utilities ,Install water meter & vault ,CS 9,CS 15 ,,,,,,,specifics on installation on CS15,
+Site Utilities ,Provide and install 1500 gal grease interceptor ,CS 9,CS 12,X-1 ,,,,,26,"CS 9 - noted for first time
+CS 12 - specifics on volume
+X-1 - referenced again",
+Site Utilities ,Provide and install manhole convers to grease interceptor ,CS 9 ,CS 12,,,,,,,"CS 9 - small but present on CS 9 -inital catch 
+CS 12  - Super definitive ",
+,Provide and install playground rubber mats ,CS 9 ,,,,,,,,trade is undefined ,
+Site Utilities ,Provide and install storm sewer drain and required inlets around building ,CS 9 ,CS 11,CS 16 ,A-105,,,,,"CS 9 w/ legend and overview
+CS 11 goes into specifics for takeoff
+CS 16 for methods
+can specifiy the breakdown in thickness, material, and LF across the board, main focus is one wrapping around building 
+A-105 - referenced again the tie ins w/ the gutter",
+,,,,,,,,,,,
+General Exclusions ,Ensure 18`` vertical clearance between all utilities line,CS 10,CS 13,,,,,,,,
+Site Utilities ,Provide and install storm sewer drain(s) ,CS 10,,,,,,,,"zoom up of one close to parking lot, contains material, LF, and thickness
+could intuitvely catch it on CS 9 and CS 7 ",
+,,,,,,,,,,,
+Concrete ,Tie in existing concrete pan saw cut 2' opening in curb to accomodate pan ,CS 11,,,,,,,,,
+Site Utilities ,Install all required Tee(s) w/ Cleanout (goes w/ roof tie-in's),CS 11,,,,,,,,,
+,,,,,,,,,,,
+Site Utilities ,Provide and install one sanitary stub for future tie-in ,CS 12,,,,,,,,,
+Site Utilities ,Provide and install 7 cleanouts along w/ insulation board,CS 12,,,,,,,,,
+Site Utilities ,Provide and install new sanitary manhole cover (on sewer line) ,CS 12 ,,,,,,,,"CS 12 - definitive as it's no longer faint, but no explicit text pointing to it's installation ",
+General Exclusions ,Assuming utilities have been coordinated w/ the other disciplines in the construction documents,CS 12,,,,,,,,"bs for making gc verify this info, part of architect scope ",
+General Exclusions ,Assume all utility mains are adequately located and sized ,CS 12,,,,,,,,,
+,,,,,,,,,,,
+Site Utilities ,Coordinate w/ city to complete 3 water service liine tie-ins ,CS 13,,,,,,,,"ref to plumbing plans, every city is differnet, but some coordination is required 
+could intuitevly catch on CS 9 given the overall utility plan  ",
+Fire Sprinkler,Provide and install FDC connection point ,CS 13,X-1 ,A-201,,,,,37,"FDC (Fire Department Connection)
+
+X-1 KN37: References FDC again 
+A-201 : referenced in note 5 ",
+,,,,,,,,,,,
+Erosion Control ,Provide and install intial silt fence,EC 22,EC 25,,,,,,,,
+Erosion Control ,Provide and install vehicle tracking control ,EC 22,EC 25,,,,,,,EC 25 - called vehicle tracking pad not vehicle tracking control ,
+Erosion Control ,Provide and install stabilized staging area,EC 22,EC 26,,,,,,,,
+Erosion Control ,Provide and install inlet protection,EC 22,EC 25,,,,,,,,
+Erosion Control ,Provide and install concrete washout area,EC 22 ,EC 25,,,,,,,,
+,,,,,,,,,,,
+Erosion Control ,Relocate silt fence for the interim phase ,EC 23,EC 25,,,,,,,EC 23 - ensure LLM catches directional/length change of silt fence ,
+Erosion Control ,Provide and install additional inlet protection for the interim phase,EC 23,EC 22,,,,,,,combination of EC 23 and EC 22 ,
+Erosion Control ,Provide and install rock socks in the interim phase,EC 23,EC 26,,,,,,,,
+Erosion Control ,Provide and install sediment control log in the interim phase,EC 23,EC 25,,,,,,,,
+,,,,,,,,,,,
+Erosion Control ,Relocate silt fence for the final phase ,EC 24 ,EC 25,,,,,,,,
+Erosion Control ,Remove one rocksock for the final phase ,EC 24 ,EC 23,EC 26,,,,,,"EC 23 - 5 rocksocks 
+EC 24 - 4 rocksocks ",
+Landscaping,Provide and install permanent seeding w/ mulching,EC 24 ,EC 27 ,,,,,,,,
+Erosion Control ,"Remove vehicle tracking control, staging, and concrete washout area for final phase ",EC 24 ,EC 26,EC 25 ,,,,,,,
+,,,,,,,,,,,
+Outdoor Furniture,Provide and install playground equipment,X-1 ,,,,,,,"1,2",,
+Fencing ,Provide and install 4' ornamental fence ,X-1,,,,,,,6,"X-1 - first catch of a 4' tall fence, around playground",
+,,,,,,,,,,,
+Landscaping ,Provide and install irrigated sod ,X-1,,,,,,,10,,
+Plumbing,Provide and install hose bib ,X-1,A-201,P-102,,,,,11,A-201 - see note 5 and elevation 8 ,
+Signage ,Provide and install monument sign ,X-1,,,,,,,13,,
+Fencing ,Provide and install fence on top of retaining wall ,X-1,,,,,,,33,X-1 - References landscaping elevations w/o specific page numbers,
+Outdoor Furniture,Provide and install universal bike rack ,X-1,,,,,,,34,"X-1 - first introduction, references landscape drawings ",
+Outdoor Furniture,Provide and install bike service station ,X-1,,,,,,,35,,
+Signage,Provide and install reserved for veterans parking signage,X-1,,,,,,,36,,
+Signage,"Provide and install fire lane signs, as specified",X-1,,,,,,,38,,
+Outdoor Furniture,Provide and install recycled plastic receptacle w/ liner 45 gal ,X-1,,,,,,,30,X-1 - Refers to landscape drawings (it's a trashcan),
+GC ,Coordinate w/ utility company for new gas meter,X-1,,,,,,,29,,
+Electrical ,Provide and install parking lot lights,X-1,,,,,,,27,X-1 - Refers us to electrical,
+Electrical ,Provide and install parking lot poles ,X-1,,,,,,,27,"X-1 - Intuitive, not explicit based on KN 27",
+,Provide and install knox box mounted 60`` AFG (aboved finished grade),X-1,A-101,A-201,,,,,"25,13","X-1 - Refers us to KN13, sheet A-101
+A-101 - it's called a lock box, architect misspelled it use positional information to determine this issue
+A-201 - referenced again ",Trade?
+Electrical,Provide and install underground wiring ,X-1,E-002,,,,,,21,X-1 - Refers us to E-002 ,
+,Provide an install four cow's tongue emergency downspouts ,X-1,A-101,A-201,,,,,"14,20, E7","X-1 - Intial 
+A-101- CloseUp on floor/wall plan
+A-201 - referenced again + mounting instructions - D7",
+GC ,Coordinate w/ utility company to install ground mounted transformer,X-1,,,,,,,22,,
+Electrical,Provide and install conduits and feeders from transformer ,X-1,,,,,,,23,,
+Electrical,Provide and install wall mounted meter and CT cabinent ,X-1,,,,,,,24,,
+General Exclusion ,Assume all plants have been specified to not be toxic. ,X-1 ,,,,,,,GN5,,
+,,,,,,,,,,,
+,Provide and install X cubic yds of conrete for piers ,S2.1,S1.2,S4.2,,,,,,"12'' diameter minimum , 13' embed into bedrock, and minimum 33' total length 
+
+S1.2 - backreference to ""table of mix design requirements"" for concrete specs",
+,Provide and install X lineal feet of rebar into concrete piers,S4.1,,,,,,,E12,"S4.1 - elevation 12, contains rebar ",
+,Provide and install X cubic yds of concrete for PC2.5 pier caps ,S2.1,S1.2,S4.2,,,,,,"S1.2 - backreference to ""table of mix design requirements"" for concrete specs
+           note spelled pile caps in the table, but they're the same thing",
+,Provide and install X cubic yds of concrete for PC2 pier caps ,S2.1,S1.2,S4.2,,,,,,"S1.2 - backreference to ""table of mix design requirements"" for concrete specs
+           note spelled pile caps in the table, but they're the same thing",
+,Provide and install hollow structural sections (HSS),S2.1,S4.2,S1.2,,,,,,"S1.2 - Note: Steel vendor needs to do shop drawings, as HSS(s) are done to length
+
+S4.2 - elevation 7
+           7 - tells us that HSS goes on top of pier ",
+,Provide and install all 6x6 post w/ CBS66 pose base type4 places,S2.1 ,S4.2,,,,,,,"S4.2 - elevation 10, tell us specifics ",
+Concrete,Provide and install X cubic yds of concrete for GB1 grade beams,S2.1,S1.2,S4.2,,,,,,"S1.2 - backreference to ""table of mix design requirements"" for concrete specs",
+Cocnrete,Provide and install X lineal feet of rebar into GB1 grade beams,S4.1,,,,,,,E9,S4.1 - elevation 9 ,
+Concrete,Provide and install ledge at grade beam walls as shown on plans ,,S4.2,,,,,,,"highlights are grouped subscopes 
+
+S4.2 - elevations 1,3,4 ",
+Concrete,Provide and install anchor bolts at grade beam walls ,,S4.2,S5.3,,,,,,"S4.2 - elevations 1,2,3,4",
+Concrete,Provide and install embed boards at grade beam walls,,S4.2,,,,,,,"S4.2 - elevations 1,6",
+Concrete,Provide and install anchor bolts at steel columns,,S4.2,,,,,,,"S4.2 - elevations 7,9",
+____,____,____,____,____,____,____,____,____,____,____,____
+,Provide and install X cubic yds of concrete for GB2 grade beams,S2.1,S1.2,S4.2,,,,,,"S1.2 - backreference to ""table of mix design requirements"" for concrete specs",
+,Provide and install X lineal feet of rebar into GB2 grade beams,S4.1,,,,,,,E9 ,S4.1 - elevation 9 ,
+,,,,,,,,,, ,
+,Provide and install X # of W12x40 Steel IBeams,S2.2 ,,,,,,,,,
+,Weld Steel IBeams to HSS w/ proper sheer plate connection ,S2.2 ,S.6.1,,,,,,,S6.1 - Notice differing thickness between HSS,
+,Provide and install X # of 20'' thick TJI/I Joist 16'' OC ,S2.2 ,,,,,,,,S 2.2 - Perform takeoff to get TJI/I Joist length ,
+,Provide and install 23/32'' sheathing ,S2.2 ,,,,,,,,,
+,,,,,,,,,,,
+,Provide and install shear wall type 2W6,S2.2A,S5.3,,,,,,,"S2.2A - Note we're pointed to S5.10 for shear wall elevations, but it's wrong it's on shear S5.3
+S5.3 - elevation 4 - intersecting shear walls",
+,Provide and install shear wall type W6,S2.2A,S5.3,,,,,,,"S2.2A - Note we're pointed to S5.10 for shear wall elevations, but it's wrong it's on shear S5.3
+S5.3 - elevation 4 - intersecting shear walls ",
+,Provide and install shear wall type W3,S2.2A,S5.3,,,,,,,"S2.2A - Note we're pointed to S5.10 for shear wall elevations, but it's wrong it's on shear S5.3
+S5.3 - elevation 6 
+S5.3 - elevation 4 - intersecting shear walls",
+,Provide and install LSL 1 1/2' and 7 1/4' studs at entry way ,S2.2A,,,,,,,,,
+,Provide and install HDU2 and HDU5 hold-down straps ,S2.2A,S.53,,,,,,,S5.3 - elevation 9 ,
+, ,,,,,,,,,,
+,Provide and install headers of type H1 ,S2.3,S2.4,S5.1,,,,,"E2,12","S5.1 - elevation 2, for typical header setup",
+,Provide and install headers of type H2,S2.3,S5.1,,,,,,"E2,E12","S5.1 - elevation 2, for typical header setup",
+,Provide and install headers of type H3,S2.3,S2.4,S5.1,,,,,"E2,E12","S5.1 - elevation 2, for typical header setup",
+,Provide and install headers of type H4,S2.3,S5.1,S6.1,,,,,"E2, E10, E12","S2.3 - H4 = GL(Glulam Beams) 
+S5.1 - elevations containinformation abt headers 
+S6.1 - elevations on steel capped columns exclusively for glulam beams ",
+,Provide and install headers of type H5,S2.3,S5.1,,,,,,"E2, E12",,
+,Provide and install all CS14 straps ,S2.3,S5.2,,,,,,"E8, E9 ","S5.3 - elevations 8,9",
+,Provide and design roof truss system for roof framing ,S2.3,S2.4,S5.2,,A-201,,,10a,"S2.3 - There's no actual 10a, it's just first bullet 
+S2.4 - Note, the snow load plan 
+A-201 - references pitch of roof, important truss design confirmed the 6 / 12 pitch on A-302 b/c of 
+             inadequete cross sections on A-201",
+,Provide and install prefabricated trusses to be 24'' O.C. ,S2.3,S2.4,S5.2,,,,,,S2.4 - Additional installations on top of what's done in S2.3,
+,Provide and install 19/32'' roof sheathing ,S2.3,S2.4,,,,,,,S2.4 - Additional installations on top of what's done in S2.3,
+,Provide and install all hip trusses ,S2.3,S2.4,S5.2,,,,,,S2.4 - Additional installations on top of what's done in S2.3,
+,Provide and install all girder trusses ,S2.3,S2.4,S5.2,,,,,,S2.4 - Additional installations on top of what's done in S2.3,
+,Provide and install ECCQ5-8 column cap welded to HSS,S2.3,S6.1 ,,,,,,E10,"S6.1 - see elevation 10 for specifics, note the Thru bolts for future takeoff ",
+,"Provide and install all dropped beams, supported by trimmer and king studs, as required ",S2.3,S5.1,S5.2,,,,,"7, E12",S2.3 - see note 7 ,
+,Provide and install MGU 5.62-SDS headers,S2.3,,,,,,,6,S2.3 - see not 6 ,
+,,,,,,,,,,,
+,Provide and install 7 rooftop mechanical units,S2.4,A-105,,,,,,,A-105 - referenced again visually,
+,Note: A-101 is INTERIOR WALLS,,,,,,,,,,
+,Provide and install X LF of  wall type 1|6BS  ,A-101,,,,,,,,"Top of wall to underside of truss , 5.5' wood stud, 1 layer EA side, acoustical insulation (16BS)",
+,Provide and install X LF of  wall type 2|6BS ,A-101,,,,,,,,"Top of wall to underside of deck, 5-1/2' wood stud, 1 layer EA side, acoustical insulation
+
+A-101 - catch the cross section you don't know what it's for yet , realize the wood thickness is actual thickness , nominal thickness to be 2'' x 6'' based of (5.5 + 0.5) ",
+,Provide and install X LF of wall type 1|3B ,A-101,,,,,,,,"Top of wall to underside of truss , 3-5/8'  wood stud, 1 layer EA side, acoustical insulation",
+,Provide and install X LF of wall type 5|3B ,A-101,A-401,,,,,,,"Crib wall , 3-5/8' wood stud , 1 layer EA side
+
+A-401 - Crib wall elevations, I think",
+,Provide and install X LF of wall type 3|3B ,A-101,,,,,,,,"Top of wall to 6'' above ceiling , 3-5/8' wood stud, 1 layer EA side",
+,Provide and install X LF of wall type 4|3B  ,A-101,,,,,,,,"Top of wall to 3.25' above finished floor,  3-5/8' wood stud, 1 layer EA side",
+,Provide and install X LF of wall type 1|3BS ,A-101,,,,,,,,"Top of wall to underside of truss, 3-5/8' wood stud, 1 layer EA side, acoustical insulation",
+,Provide and install X LF of wall type 3|3BS  ,A-101,,,,,,,,"Top of wall to 6'' above ceiling , 3-5/8' wood stud, 1 layer EA side, acoustical insulation",
+,Provide and install X LF of wall type 1|6C ,A-101,,,,,,,,"Top of wall to underside of truss, 5-1/2' wood stud, 2 layer one side, 1 layer other",
+,Provide and install X LF of wall type 1|6B ,A-101,,,,,,,,"Top of wall to underside of truss, 5-1/2' wood stud, 1 layer EA side",
+,Provide and install all fire extinguisher w/ semi recessed fire extinguisher cabinent - SS or AL finish,A-101,,,,,,,1,SS stainless steel,
+,Provide and install type K fire extinguisher(s),A-101,,,,,,,2,,
+,Provide and install all mop and broom holder(s),A-101,,,,,,,3,,
+,Provide and install mop sink ,A-101,,,,,,,4,,
+,"Provide and install FRP wall at mop sink, as specified in the construction documents",A-101,A-103,,,,,,4,"FRP (Fiber reinforced plastic)
+
+A-101 - intial
+A-103 - referenced again, w/ specifics to the FRP",
+,"Provide and install all drain(s), as specified",A-101,,,,,,,5,,
+,Provide and install aluminum wall cap where it buts into storefront window,A-101,,,,,,,7,reworded to make more sense ,
+,"Provide and install all tactile exit signs, as specified",A-101,,,,,,,12,(the dots blind ppl use to find exits),
+,Provide and install vertical roof acess ladder,A-101,A-102,S2.3,,,,,"14,5","A-102 KN5 - more ladder specifics, scope should develop to include roof hatch as well ",
+,"Provide and install roof hatch at vertical roof access ladder, as specified in construction documents",,S2.3,A-102,A-105,,,,"5, E6","A-102 KN5 - more ladder specifics, scope should develop to include roof hatch as well 
+S2.3 - referenced again, very important b/c truss supplier and framer have to design roof system 
+A-105 - referenced again, elevation 6",
+,Provide and install utility sink,A-101,,,,,,,16,15 and 17 don't need to be referenced as they're OFCI (owner furnished contracted and installed),
+,Install only owner provided washing machine ,A-101,,,,,,,15,,
+,Install only owner provided dryer ,A-101,,,,,,,17,,
+,"Provide and install wall shelving, as specified in construction documents and verify final location w/ owner",A-101,,,,,,,19,,
+,Provide and install X # of in floor insulated crawl space acess pannels ,A-101,,,,,,,21,A-101 - There's 2 types of access pannels one for closests and the other for larger rooms,
+,Provide and install X # of openings for crawl space acess pannels,,S2.2,S5.2,,,,,,"S2.2 - first reference
+S5.2 - elevation 4, specs on acess pannel ",
+,Provide and install X # of toilets,A-101,A-104,A-401,,,,,,"A-101 - labeled on page, not in keynotes
+A-104 - Visually referenced, non-intuitive",
+,Provide and install X # of staff toilets,A-101,A-104,A-401,,,,,,"A-101 - labeled on page, not in keynotes
+A-104 - Visually referenced, non-intuitive",
+,Provide and install X # of restroom sinks ,A-101,A-104,A-401,,,,,,"A-104 - Visually referenced, non-intuitive",
+,Provide and install X # of countertop sinks ,A-101,,,,,,,,"A-101 - symbol based intuition , however no specific sinks so will have to split scope downstream",
+,Provide and install X # of left hand swing doors ,A-101,A-201,A-601,,,,,,"A-101 - symbol based intuition   
+A-601 - refer to the door schedule
+Note get the counts of each door # type ",
+,Provide and install X # of right hand swing doors,A-101,A-201,A-601,,,,,,"A-101 - symbol based intuition   
+A-601 - refer to the door schedule
+Note get the counts of each door # type ",
+,Provide and install X # of windows,A-101,A-201,A-302,A-601,,,,,"Note will get broken up when we get to the window types on A-601
+
+A-201 - cross section North,East,West,South
+A-302 - window reference, unimportant",
+,Provide and install X # of W by H interior wall drywall sheets ,A-101,,,,,,,,"Extrapolate based on wall installation take into account # of sheets per wall side, 
+etc. see notebook for more info",
+,Provide and install X lineal feet of window type A,A-101,A-601,,,,,,E5,A-601 - elevation 5 for window dimensions and materials,
+,Provide and install X lineal feet of window type B,A-101,A-601,,,,,,E5,A-601 - elevation 5 for window dimensions and materials,
+,Provide and install X lineal feet of window type C,A-101,A-601,,,,,,E5,A-601 - elevation 5 for window dimensions and materials,
+,Provide and install X lineal feet of window type D,A-101,A-601,,,,,,E5,A-601 - elevation 5 for window dimensions and materials,
+,Provide and install X lineal feet of window type E,A-101,A-601,,,,,,E5,A-601 - elevation 5 for window dimensions and materials,
+,Provide and install X lineal feet of window type F,A-101,A-601,,,,,,E5,A-601 - elevation 5 for window dimensions and materials,
+,Provide and install X lineal feet of window type G,A-101,A-601,,,,,,E5,A-601 - elevation 5 for window dimensions and materials,
+,Provide and install X lineal feet of window type H,A-101,A-601,,,,,,E5,A-601 - elevation 5 for window dimensions and materials,
+,Provide and install X lineal feet of window type I,A-101,A-601,,,,,,E5,A-601 - elevation 5 for window dimensions and materials,
+,,,,,,,,,,,
+,Provide and install all attic acess panels ,A-102,,,,,,,1,A-101 - can't find it ,
+,Provide and install all 2x2 lay-in acoustical ceiling tiles,A-102,A-302,,,,,,"2,E2,E3,E4",A-302 - referenced again in 3 places ,
+,Provide and install all 2x2 lay-in wahsable ceiling tiles in wet areas ,A-102,,,,,,,3,,
+,Provide and install GYP ceiling ,A-102,,,,,,,4,,
+,Provide and install seamless alumnium gutter ,A-102,A-105,A-201,A-302,,,,"6, E3,E4","A-105 - Provide and install aluminum 6'' wide gutter w/ spike and ferrile at 36'' O.C. and connect to underground drain system 
+A-201 - referenced again, to be 4'' diameter
+A-302 - closeup",
+,Provide and install ventilated alumnium soffit,A-102,A-302,,,,,,"7, E3,E4","RFI - have alumninum soffit on A-102 and fiber cement on A-302, the panel material is in question? 
+
+
+A-302 - see elevation 4 & 3 ",
+,Provide and install all celing fans,A-102,,,,,,,9,"Refer to electrical spec and general note G-405 23.34, but says 23.24 in the legend",
+General Note,"Exposed ceiling in utility room, gypsum painting in the atrium.",A-102,,,,,,,10,Architect messed up. ,
+,Provide and install X # of recessed lights,A-102,,,,,,,,A-102 - explicit symbol reference in legend ,
+,Provide and install X # of  2' x 4' recessed light fictures,A-102,,,,,,,,A-102 - explicit symbol reference in legend ,
+,Provide and install X # of emergency exit lights,A-102,,,,,,,,A-102 - explicit symbol reference in legend ,
+,Provide and install X # of heat detector ,A-102,,,,,,,,A-102 - explicit symbol reference in legend ,
+,Provide and install X # of smoke detector ,A-102,A-104,,,,,,,"A-102 - explicit symbol reference in legend 
+A-104 - see electrical general note E, for specifics on install ",
+,Provide and install X # of flood lights,A-102,,,,,,,,A-102 - explicit symbol reference in legend ,
+,Provide and install X # of diffuses/grilles ,A-102,,,,,,,,A-102 - explicit symbol reference in legend ,
+,Provide and install X # of return air/grilles ,A-102,,,,,,,,A-102 - explicit symbol reference in legend ,
+,Provide and install X # of emergency lights,A-102,,,,,,,,A-102 - explicit symbol reference in legend ,
+,,,,,,,,,,,
+,Provide and install X square feet of QT (quarry tile) to kitchen and laundry,A-103,,,,,,,E9,A-103 - refers to elevation 9 in floor finishes legend ,
+,Provide and install X square feet of CT1 (ceramic tile 1) in all toilet rooms,A-103,,,,,,,E9,,
+,Provide and install X square feet of CT2 (ceramic tile 2) in lobby,A-103,,,,,,,E9,,
+,"Provide and install X square feet of LVT (luxury vinyl tile) in classrooms, COT rooms, corridors, large motor rooms, and director conference and staff rooms",A-103,,,,,,,E9,,
+,____,A-103,,,,,,,,"RFI for exposed concrete as we apply wood sheating as seen in S2.2 , however there's a note on A-103
+requiring subs to prepare concrete slab before laying floor finish ",
+,"Provide and install X square feet of walk-off-mats at entry, monolithicly ",A-103,,,,,,,E9,,
+,,,,,,,,,,,
+,Provide and install X square feet of CWT (ceramic wall tile) in all toilet rooms ,A-103,,,,,,,E2,,
+,"Provide and install X square feet of  (fiber reinforced plastic) to COT rooms, storage, utility, and restrooms ",A-103,,,,,,,,,
+,"Provide and apply PT1 (paint) to all COT rooms, storage, utility, and restrooms",A-103,,,,,,,,,
+,Provide and apply PT2 (paint - interior door frames) to all interior door frames ,A-103,,,,,,,,,
+,"Provide and install X lineal feet of QTB (quarry tile base) to sanitary covered units, expoxy grout, and kitchen, and laundry",A-103,,,,,,,E7,,
+,Provide and install X lineal yardage of VWC1 (vinyl wall covering 1) in all infant rooms ,A-103,,,,,,,E4,,
+,"Provide and install X lineal yardage of VWC2 (vinyl wall covering 2) in lobby, entry, conference, director, staff, classrooms, corridors,  and large motor room",A-103,,,,,,,E4,,
+,Provide and install X lineal yardage of VWC3 (vinyl wall covering 3) to all classrooms ,A-103,,,,,,,,,
+,"Provide and install X lineal footage of VWB (vinyl wall base) to all classrooms, COT rooms, large motor room, corridors, entry, conference, storage, utility, director, and staff rooms ",A-103,,,,,,,E7,,
+,Provide and install all drinking fountains ,A-103,,,,,,,E5 ,"A-103 - elevation 5 first reference, insufficient information for an actual count hence usage of ""all""",
+,"Provide and install X liineal feet of maple chair rails, prefinished",A-103,A-302,,,,,,"E3,E4,E3,E4","A-103 - possible to do takeoff for lineal feet of railing
+A-302 - refered on elevation 3",
+,Provide and install X # of wall bumpers ,A-103,,,,,,,E4,A-103 - D4 specifics on wall bumper installation ,
+,Provide and install X # of quadplex switch banks,A-103,A-104,,,,,,E4,"A-103 - note want outlets/switch banks mounted at 3' 9 7/8'' 
+A-104 - referenced, again note D general electrical notes",
+,Provide and install X # of duplex switch banks,A-103,A-104,,,,,,E4 ,"A-103 - note want outlets/switch banks mounted at 3' 9 7/8'' 
+A-104 - referenced, again note D general electrical notes",
+,,,,,,,,,,,
+,Provide and install X lineal feet carseat/buggy storages,A-104,A-501,,,,,,"E1, E9,E10","A-104 - D1
+A-501 - D9/10 ",
+,Provide and install X lineal feet plastic laminate cabinets for large motor room ,A-104,A-501,,,,,,"E2, E8","A-104 - D2, see note Jb for specs on cabinent hinges in 'casework design and hardware'
+A-501 - D8",
+,Provide and install X lineal feet teachers wadrobes ,A-104,A-501 ,,,,,,"E3, E8","A-104 - D3, see note Jb for specs on cabinent hinges in 'casework design and hardware'
+A-501 - D8 ",
+,Provide and install X lineal feet of upper and lower plastic laminate cabinets for food prep stations,A-104,A-501,,,,,,"E4, E15, E4","A-104 - D4, D15(backsplash), see note Jb for specs on cabinent hinges in 'casework design and hardware'
+             see note P in 'casework design and hardware' regarding cabinents being mounted on 6'' tall stainless steel legs
+A-501 - D4 ",
+,Provde and install X lineal feet of upper and lower plastic laminate cabinets for infant changing stations ,A-104,A-501,,,,,,"E5,E15, E5, E6","A-104 - D5/15(backsplash), see note Jb for specs on cabinent hinges in 'casework design and hardware'
+A-501 - D5/6",
+,Provide and install diaper drop to infant changing station ,A-104,,,,,,,,A-104 - See note N in 'casework design and hardware',
+Glass ,Provide and install mirror at all infant changing stations,A-104,,,,,,,E5 ,A-104 - see note V in casework design and hardware for mirror install ,
+,Provide and install X lineal feet of typical locker bank,A-104,A-501,,,,,,"E6, E2","A-104- D6
+A-501 - D2",
+,Provide and install X lineal feet of infant locker bank ,A-104,A-501,,,,,,"E7, E2","A-104 - D7
+A-501 - D2",
+,Provide and install X lineal feet of base plastic laminate cabinets for sign-in desk w/ LCD monitor,A-104,A-501,,,,,,"E8, E5","A-104 - D8, see note Jb for specs on cabinent hinges in 'casework design and hardware'
+A-501 - D5",
+,Provide and install X lineal feet of base plastic laminate cabinets & upper shelving above base plastic laminate cabinets for sign in desk w/o LCD monitor ,A-104,,,,,,,E9,"A-104 - very important need to disregard A-501 - D5, , see note Jb for specs on cabinent hinges in 'casework design and hardware'",
+,Provide and install X lineal feet of upper and lower plastic laminate cabinets for of work/prep station ,A-104,A-501,,,,,,"E10,E15, E5","A-104 - D10/15(backsplash), , see note Jb for specs on cabinent hinges in 'casework design and hardware'
+A-501 - D5",
+,Provide and install X lineal feet of upper and lower plastic laminate cabinets for of toddler changing station ,A-104,A-501,,,,,,"E11,  E15, E5, E6","A-104 - D11 /15(backsplash), , see note Jb for specs on cabinent hinges in 'casework design and hardware'
+A-501 - D5/6",
+,Provide and install diaper drop to toddler changing station ,A-104,,,,,,,,A-104 - See note N in 'casework design and hardware',
+Glass ,Provide and install mirror at all toddler changing stations,A-104,,,,,,,E11 ,A-104 - see note V in casework design and hardware for mirror install ,
+,Provide and install X lineal feet of upper and lower plastic laminate cabinets for of plastic laminate cabinets in staff room ,A-104,A-501,,,,,,"E12,E15, E5","A-104 - D12/15(backsplash), see note Jb for specs on cabinent hinges in 'casework design and hardware'
+A-501 - D5",
+,Provide and install X lineal feet of upper bathroom plastic laminate cabinets ,A-104 ,A-501,,,,,,"E13, E5","A-104 - D13, , see note Jb for specs on cabinent hinges in 'casework design and hardware'
+A-501 - D5 - only instal upper cabinent ",
+,Provide and install X lineal feet of teacher's wardrobe,A-104,A-501,,,,,,"E14, E8","A-104 - D14
+A-501 - D8",
+,"Provide and install wardrobe clothes rods to be 1-1/16'' DIA, chome w/ chrome flanges",A-104,,,,,,,,A-104 - see note K in Casework Design and harware,
+,Provide and install X # of cabinent pulls  ,A-104,A-501,,,,,,,"A-104 - Note elevation Ja in the Casework Design and Hardware notes
+A-501 - D3/4/5/6/8 - develop into SS pulls ",
+,"Provide and install X square feet of tile backsplash to staff room, food prep, infant changing, toddler changing, and work/prep stations",A-104,,,,,,,"E15, E4,E5,E12,E11,E10",A-104- D4/5/10/11/12/15 - all instances of tile backsplash,
+,Provide and install countertop backsplash to all casework w/ backsplash tile,A-104,A-501,,,,,,"E15, E4,E5,E12,E11,E10 , E5","A-104- D4/5/10/11/12/15 - all instances of tile backsplash
+A-501 - make's it very clear for a solid surface backsplash",
+,Provide and install X square feet of tile backsplash to sidewalls ,A-104,,,,,,,,A-104 - Casework design and hardware note H ,
+,Provide and install X square feet of countertop backsplash to sidewalls,A-104,,,,,,,,A-104 - Casework design and hardware note H,
+,Provide and install bullnose edges to all backsplash,A-104,,,,,,,,A-104 - Casework design and hardware note Hc,
+Electrical,Provide and install all outlets at walls ,A-104,,,,,,,E16,"A-104 - D15 - not possible to get specific count, but referenced and implied installation 
+             see notes J,K on electrical general note box ",
+Electrical,Provide and install tamper-proof outlets in all classrooms and corridors ,A-104,,,,,,,,A-104 - see note J in electrical general note box ,
+Electrical,"Coordinate location of outlets, fixtures, etc w/ other trades",A-104,,,,,,,,A-104 - see note L in electrical general note box,
+Electrical,"Provide and install data box, where data is shown on walls ",A-104,,,,,,,,A-104 - see note B in electrical general note box,
+Fire Alarm ,"Provide and install fire alarm system, per local code requirements, must include hardwired carbon monoxide detectors",A-104,,,,,,,,A-104 - see note E in electrical general note box ,
+Electrial,"Provide and install LESCO electrical boxs, per NHA (New Horizon Academy) standards",A-104,,,,,,,,A-104 - see note G in electrical general note box,
+,____,A-104,,,,,,,,"RFI - are all outlet cirucits suppose to be GFCI(ground fault), seems excessive 
+only should apply near H2O",
+,____,A-104,,,,,,,,"RFI - outlet/switch mounted height as noted on A-103 states ~3' 10'', but electricals and A-104 
+reference outlets again w/ no info on mounted height ",
+Electrical,"Provide and install powerr wiring for owner's server and LAN system, verify w/ low voltage contractor",A-104,,,,,,,,A-104 - see note H in electrical general note box,
+Electrical,Provide and install power for H2O softening system,A-104,,,,,,,,A-104 - see note I in electrical general note box ,
+,Provide and install X square feet of countertop,A-104,,,,,,,"E4, E5, E8, E9, E10, E11, E12, E15","A-104 - D15 - specifies countertop specs, all other are instances where countertop is required ",
+General Notes ,Outlets at backsplash should be at 4' high,A-104,,,,,,,"E15, E4,E5,E12,E11,E10",,
+,Provide and install locks to all drawers and cabinent doors ,A-104,,,,,,,,A-104 - see note L in casework design and hardware pay attention to subnotes,
+,Provide and install all countertop mounted sinks to be integrated solid surface cts ,A-104,,,,,,,,A-104 - see note O in' casework design and hardware' ,
+,Provide and install solid surface window sills ,A-104,,,,,,,,A-104 - see note T in 'casework design and hardware',
+,,,,,,,,,,,
+,Provide and install asphalt shingles,A-105,A-201,A-302,,,,,,"A-201 - referenced again , specifically ""gaf timberliine hdz, barkwood""
+A-302 - references shingles that are fiberglass, not asphalt
+
+RFI - Contradiction between asphalt and fiberglass shingles.",
+,Provide and install fully adhered white single ply to be sloped 1/4'' / 12'' downward,A-105,A-201,,,,,,,"A-201 - general note ""Roofing"" material ",
+,Provide and install 2 layers of R-30 polyiso roof insulation to be sloped 1/4'' / 12'' downward,A-105,,,,,,,,,
+,Provide and install walkpads,A-105,,,,,,,,,
+HVAC,Provide and install X # of thru-roof vents,A-105,,,,,,,E2,"A-105 - elevation 2, specifics on penetration ",
+,Provide and install roof drain and overflow at four locations,A-105,,,,,,,E5,A-105 - elevation 5 closeup on roof drain,
+,Provide and install dryer vent,A-105 ,M-201,,,,,,E5,M-201 - elevation 5 specs for dryer vent ,
+,Provide and install exhaust fans at 4 locations,A-105,A-201,,,,,,"E3 , 3","A-105 - elevation 3 
+A-201 - note 3 ",
+,Properly seal all penetrations from other trades ,A-105 ,,,,,,,,"A-105 - D2/D3/ roof acess hatch, dryer vent (I am probably missing some)",
+,,,,,,,,,,,
+,Provide and install X square feet of james hardie prefinished navajo beige 6'' lap siding ,A-201,A-302,,,,,,"E1,E6,E2,E3,E4","*maybe lineal feet
+A-302- referenced on elevation 2,3,&4",
+,Provide and install X lineal feet of James Hardie Trim,A-201,A-302,,,,,,"E1,E3,E5,E7,E2,E3",,
+,Provide and apply heathered moss prefinished James Hardie trim ,A-201,,,,,,,,,
+,"Provide and apply blue blood satin to James Hardie trim, as specified ",A-201,,,,,,,,,
+,Provide and apply required paint to installed doors that require paint ,A-201,,,,,,,,,
+Masonry,Provide and install X square feet of chardonnay,A-201,,,,,,,,,
+Masonry,Provide and install X square feet of country ledgestone,A-201,,,,,,,,,
+Masonry,"Provide and install X lineal feet of precast stone sill, to be dark brown",A-201,,,,,,,,,
+Signage,Provide and install 6'' address number sign and verify w/ the fire department ,A-201,,,,,,,,,
+Framing ,Provide and install James Hardie Fascia,A-201,,,,,,,"E1, E5 ",,
+,"Provide and apply herbal wash to James Hardie Fascia, as specified in documents",A-201,,,,,,,,,
+,Provide and install X square feet of timber bark James Hardie shake siding ,A-201,,,,,,,E1 ,,
+Owner ,Owner to provide and install New Horizon Academy signage,A-201,,,,,,,,"A-201 - Signage general note, regarding need seperate permit, takes a long time ",
+General Note,All on-site wiring and cables shall be placed underground,A-201,,,,,,,,,
+,"Provide and apply paint to al external services inlcuding, but not limited to, gas meteres, 6'' lap siding, Fascia, trim pieces, electrical conduits, etc.",A-201,,,,,,,1,A-201 - General Note 1 ,
+,,,,,,,,,,,
+Owner,Owner provided and installed monument sign.,A-202,,,,,,,,,
+Concrete/Mason,Provided and install monument strucutre. ,A-202,,,,,,,,"A-202 - If doing takeoff, compute concrete, veneer, other materials, etc. w/ this page ",
+,,,,,,,,,,,
+General Note,Used for wall takeoff in conjunction w/ A-101.,A-301,____,____,____,____,____,____,____,____,____
+,,,,,,,,,,,
+,Provide and install 5/8'' thick ceiling drywall to vestibule storefront,A-302,,,,,,,E1,A-302 - elevation 1 ,
+,Provide and install 10ml flame retardant string reinforced translucenct white plastic vapor barrer on florors and walls  in crawl space ,A-302,A-303,,,,,,"E1,E2,E4","A-302 - elevation 1 
+A-303 - elevation 1 - contradiction between 6 and 10 mil, however 10mil is superior go w/ that for takeoff",
+,"Provide and install expansion joint material, as specified ",A-302,,,,,,,"E1,E2,E3,E4",,
+,Provide and install X square feet of gypcrete over building floor,A-302,,,,,,,"E1,E2,E3,E4",A-302 - See elevation 1/2/3/4,
+,Provide and install X square feet of 5/8'' exterior wall sheathing,A-302 ,,,,,,,"E2,E3,E4","A-302 - see elevation 2, takeoff based on the square footage of lap siding used and brick exterior, note the double sheathing for the brick exterior , 
+             points to the 2 by 4 studs used to create air gap  ",
+,Provide and install X square feet of R-30 closed ceiling insulation ,A-302,,,,,,,"E2,E3","A-302 - Explicit on elevation 2/3 - note ""closed cell insulation"" means spray foam ",
+,Provide and install X square feet of R-21 closed cell insulation,A-302,,,,,,,"E2,E3,E4","A-302 - seems to be used below the truss lines - note ""closed cell insulation"" means spray foam ",
+,Provide and install X square feet of R-21 BATT Insulation w/ kraft back,A-302,,,,,,,E3,RFI - should be just closed cell insulation ,
+,Provide and install 2 by 6 PT wood sill over sill sealer at perimeter ,A-302,,,,,,,"E3,E4",,
+,"Provide and install X lineal feet of 2 by 4 wood furring, as specified ",A-302,,,,,,,"E3,E4",,
+,Provide and install R-10 2'' styrofoam to walls in crawl space,A-302,,,,,,,E3,A-302 - elevation 3 ,
+,Provide and install uplift clips at each truss bearing point ,A-302,,,,,,,"E3,E4",A-302 - see elevation 3 ,
+,Provide and install X lineal feet of 1 by 4 Hardie Trim,A-302,,,,,,,E3,A-302 - see elevation 3 near top,
+,Provide and install X lineal feet of 1 by 6 Hardie Trim,A-302,,,,,,,E3,A-302 - see elevation 3 near top,
+,Provide and install X lineal feet of 1 by 8 Hardie Trim,A-302,,,,,,,E3,A-302 - see elevation 3 near top,
+,Provide and install X lineal feet of 1 by 12 Hardie Trim,A-302,,,,,,,E3,A-302 - see elevation 3 near top,
+,Provide and install  5'' by 5'' precast sill w/ drip ,A-302,,,,,,,E3,,
+,"Provide and install X lineal feet of stone veneer on mortar, as specified",A-302,,,,,,,"E3,E4",,
+,Provide and install weep holes at 24'' on center through wall ,A-302,,,,,,,"E3,E4",,
+,Provide and install 5/8'' thick drywall at headers,A-302,,,,,,,"E3,E4",A-302 - elevation 4 ,
+,Provide and install X square feet of R-11 insulation in crawl space,A-302,,,,,,,E4,"A-302 - elevation 4 - note the ""squiggly lines"" are normal batt insulation ",
+,,,,,,,,,,,
+,Provide and install X lineal feet of continous thru wall flashing 24'' O.C. at brick ,A-303,,,,,,,E3,,
+,Provide and install X lineal feet APA rated structural rim board in crawl space,A-303,,,,,,,E1,,
+,Provide and install X # of A35 clips in crawl space,A-303,,,,,,,E1,,
+,Provide and install X feet of sill sealer ,A-303,,,,,,,E1,,
+,Provide and install X square feet of foundation dam proofing ,A-303,,,,,,,E1,"faces the exterior of the grade beams, to prevent water from ruining the concrete ",
+,Provide and install X lineal feet of tar paper behind rim board,A-303,,,,,,,E1,,
+,Provide and install 4'' foundation drain pipe w/ 3/4'' stone surrounding ,A-303,,,,,,,E1,,
+,Provide and install X lineal feet geofabric wrap ,A-303,,,,,,,E1,,
+,Provide and install 3/4'' rock at crawl space,A-303,,,,,,,E1,,
+,,,,,,,,,,,
+,Provide and install X lineal feet of exterior joint sealants,A-304,G402,,,,,,"E1,E2,E3, 07.92","Note: exterior joint sealants are used whenever there are two differing materials making contact, meant to keep water out 
+
+G402 - 07.92 - general note on joint sealants",
+,,,,,,,,,,,
+,Provide and install X # of toilet paper dispensers,A-401,,,,,,,,,
+,Provide and install X # of restroom mirrors,A-401,,,,,,,"E1,E2,E3",,
+,Provide and install X # of diaper wipes,A-401,,,,,,,"E5,E6,E7",,
+,Provide and install X 18'' grab bars,A-401,,,,,,,"E1,E2,E3,E4,E5,E6,E7,E8",,
+,Provide and install X 42'' grab bars,A-401,,,,,,,,,
+,Provide and install X 36'' grab bars,A-401,,,,,,,,,
+,Provide and install X # of soap dispensers,A-401,,,,,,,,,
